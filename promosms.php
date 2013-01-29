@@ -3,7 +3,7 @@
 /**
  * Класс для отправки sms сообшения через сервис promosms.ru 
  *
- * @author Ibragimov "MpaK" Renat <infp@mrak7.com> http://aomega.ru http://mrak7.com
+ * @author Ibragimov "MpaK" Renat <info@mrak7.com> http://aomega.ru http://mrak7.com
  */
 class Promosms{
 	protected
